@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    HelloWorld
+    moyano software hecho por pocho y kuekue
   </div>
 </template>
 
