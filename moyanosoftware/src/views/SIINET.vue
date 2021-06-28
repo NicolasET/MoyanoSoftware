@@ -15,15 +15,15 @@
        DIAN, FOGACOOP y centrales de riesgo como son CIFIN Y DATACRÉDITO y NORMAS NIIF.</p>
     <p id="subtitulos">CARACTERÍSTICAS PRINCIPALES:</p>
     <br>
-    <p id="parrafos">Parametrizable</p>
-    <p id="parrafos">Procesos Automáticos</p>
-    <p id="parrafos">Adopción a las NICs y NIIFs</p>
-    <p id="parrafos">Modular</p>
-    <p id="parrafos">Detección de usuarios a través de características biométricas (huella).</p>
-    <p id="parrafos">Control de acceso por usuario.</p>
-    <p id="parrafos">Exportación de archivos a otras herramientas (Excel, Word) directamente.</p>
-    <p id="parrafos">Generación automática de formatos (pagarés, cheques, libranzas, facturas, solicitudes, etc).</p>
-    <p id="parrafos">Envío automático de extractos por correo electrónico.</p>
+    <p id="parrafos">• Parametrizable</p>
+    <p id="parrafos">• Procesos Automáticos</p>
+    <p id="parrafos">• Adopción a las NICs y NIIFs</p>
+    <p id="parrafos">• Modular</p>
+    <p id="parrafos">• Detección de usuarios a través de características biométricas (huella).</p>
+    <p id="parrafos">• Control de acceso por usuario.</p>
+    <p id="parrafos">• Exportación de archivos a otras herramientas (Excel, Word) directamente.</p>
+    <p id="parrafos">• Generación automática de formatos (pagarés, cheques, libranzas, facturas, solicitudes, etc).</p>
+    <p id="parrafos">• Envío automático de extractos por correo electrónico.</p>
     <br>
     <p id="subtitulos">PROCESOS AUTOMÁTICOS:</p>
     <br>
@@ -52,9 +52,9 @@
     <p id="parrafos"><span  style="color:#035AA6">SIINET </span><span  style="color:#000000">Cuenta con el mejor servicio de Soporte y Actualización. Veinte (20) años de experiencia.</span></p>
     <br>
     <p id="subtitulos">Disponible para:</p>
-    <p id="parrafos">Windows 8 y Windows 10.</p>
-    <p id="parrafos">Base de datos: SYBASE, Interactive SQL y Postgresql.</p>
-    <p id="parrafos">8 GB RAM.</p>
+    <p id="parrafos">• Windows 8 y Windows 10.</p>
+    <p id="parrafos">• Base de datos: SYBASE, Interactive SQL y Postgresql.</p>
+    <p id="parrafos">• 8 GB RAM.</p>
 
      
   </div>
@@ -92,7 +92,9 @@
   margin-right: 231px;
   margin-left: 231px;
   margin-top: 163px;
-  margin-bottom: 538px
+  margin-bottom: 538px;
+  line-height:30px;
+  
 }
 
 </style>
