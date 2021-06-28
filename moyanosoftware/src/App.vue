@@ -16,12 +16,12 @@
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+  text-align: right;
+  color: #754448;
 }
 
 #nav {
-  padding: 30px;
+  padding: 40px;
 }
 
 #nav a {
@@ -30,6 +30,6 @@
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #9867d1;
 }
 </style>
