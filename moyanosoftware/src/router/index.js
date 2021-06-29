@@ -37,6 +37,11 @@ const routes = [
     path: '/cotizar',
     name: 'cotizar',
     component: () => import('../views/Cotizar.vue')
+  },
+  {
+    path: '/ERP',
+    name: 'ERP',
+    component: () => import('../views/ERP.vue')
   }
 ]
 

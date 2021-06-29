@@ -6,7 +6,8 @@
       <router-link to="/SIINET">SIINET</router-link> /
       <router-link to="/nosotros">Nosotros</router-link> /
       <router-link to="/ayuda">Ayuda</router-link> /
-      <router-link to="/contacto">Contacto</router-link>
+      <router-link to="/contacto">Contacto</router-link> /
+      <router-link to="/ERP">ERP</router-link> /
       <router-link to="/cotizar">COTIZAR</router-link>
     </div>
     <router-view/>
